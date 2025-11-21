@@ -19,3 +19,7 @@ Midden: veld met targets.
 Onderaan: opvang of doelgebied voor het einde van de beurt.
 
 <img width="1148" height="544" alt="image" src="https://github.com/user-attachments/assets/b0e7fa85-aa4b-4622-8a30-6a943ba6a994" />
+
+
+Week 1: 
+ik heb inspiratie opgebracht en een schets gemaakt over wat ik zou willen maken dat heb ik simpel aangepakt door gewoon het stappenplan te volgen. ik liep nergens teggenaan alles was makelijk opgelost. ik heb niks geleerd kwa unity informatie
