@@ -26,5 +26,5 @@ ik heb inspiratie opgebracht en een schets gemaakt over wat ik zou willen maken 
 
 ik ben vorige keren vergeten te plaatsen in mijn readme dus voor nu wat ik nu heb is alles tot en met 2.2
 
-<img ![Gdv wat ik tot nu toe af heb](https://github.com/user-attachments/assets/98b7aede-fe37-4fb3-a443-7ea92da1339e)
+![Gdv wat ik tot nu toe af heb](https://github.com/user-attachments/assets/98b7aede-fe37-4fb3-a443-7ea92da1339e)
 
