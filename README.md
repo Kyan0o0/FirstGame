@@ -26,6 +26,7 @@ ik heb inspiratie opgebracht en een schets gemaakt over wat ik zou willen maken 
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Wat ik tot nu toe heb gedaan
 
 ik ben vorige keren vergeten te plaatsen in mijn readme dus voor nu wat ik nu heb is alles tot en met 2.2
 
