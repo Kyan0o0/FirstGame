@@ -28,3 +28,4 @@ ik ben vorige keren vergeten te plaatsen in mijn readme dus voor nu wat ik nu he
 
 ![Gdv wat ik tot nu toe af heb](https://github.com/user-attachments/assets/98b7aede-fe37-4fb3-a443-7ea92da1339e)
 
+heb best veel gedaan maar de muren fix ik later wel en de balletjes komen eraan!!!
