@@ -25,7 +25,7 @@ Week 1:
 ik heb inspiratie opgebracht en een schets gemaakt over wat ik zou willen maken dat heb ik simpel aangepakt door gewoon het stappenplan te volgen. ik liep nergens teggenaan alles was makelijk opgelost. ik heb niks geleerd kwa unity informatie
 
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ik ben vorige keren vergeten te plaatsen in mijn readme dus voor nu wat ik nu heb is alles tot en met 2.2
 
